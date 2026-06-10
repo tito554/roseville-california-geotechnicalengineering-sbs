@@ -1,0 +1,50 @@
+# Geotechnicalengineering — Roseville California
+
+> Geotechnical engineering services in Roseville California, United States.
+
+## Services
+- [Anchors](https://roseville-california.geotechnicalengineering.sbs/anchors/)
+- [Atterberg Limits](https://roseville-california.geotechnicalengineering.sbs/atterberg-limits/)
+- [Cbr Road](https://roseville-california.geotechnicalengineering.sbs/cbr-road/)
+- [Cpt Test](https://roseville-california.geotechnicalengineering.sbs/cpt-test/)
+- [Excavation Monitoring](https://roseville-california.geotechnicalengineering.sbs/excavation-monitoring/)
+- [Excavations](https://roseville-california.geotechnicalengineering.sbs/excavations/)
+- [Flexible Pavement](https://roseville-california.geotechnicalengineering.sbs/flexible-pavement/)
+- [Footings](https://roseville-california.geotechnicalengineering.sbs/footings/)
+- [Foundations](https://roseville-california.geotechnicalengineering.sbs/foundations/)
+- [Geophysics](https://roseville-california.geotechnicalengineering.sbs/geophysics/)
+- [Ground Improvement](https://roseville-california.geotechnicalengineering.sbs/ground-improvement/)
+- [Grouting](https://roseville-california.geotechnicalengineering.sbs/grouting/)
+- [In Situ Permeability](https://roseville-california.geotechnicalengineering.sbs/in-situ-permeability/)
+- [Investigation](https://roseville-california.geotechnicalengineering.sbs/investigation/)
+- [Lab In Situ](https://roseville-california.geotechnicalengineering.sbs/lab-in-situ/)
+- [Laboratory](https://roseville-california.geotechnicalengineering.sbs/laboratory/)
+- [Liquefaction](https://roseville-california.geotechnicalengineering.sbs/liquefaction/)
+- [Masw](https://roseville-california.geotechnicalengineering.sbs/masw/)
+- [Mat Foundations](https://roseville-california.geotechnicalengineering.sbs/mat-foundations/)
+- [Piles](https://roseville-california.geotechnicalengineering.sbs/piles/)
+- [Plate Load Test](https://roseville-california.geotechnicalengineering.sbs/plate-load-test/)
+- [Resistivity](https://roseville-california.geotechnicalengineering.sbs/resistivity/)
+- [Retaining Walls](https://roseville-california.geotechnicalengineering.sbs/retaining-walls/)
+- [Rigid Pavement](https://roseville-california.geotechnicalengineering.sbs/rigid-pavement/)
+- [Road Geotechnics](https://roseville-california.geotechnicalengineering.sbs/road-geotechnics/)
+- [Sand Cone Density](https://roseville-california.geotechnicalengineering.sbs/sand-cone-density/)
+- [Seismic](https://roseville-california.geotechnicalengineering.sbs/seismic/)
+- [Seismic Isolation](https://roseville-california.geotechnicalengineering.sbs/seismic-isolation/)
+- [Seismic Microzonation](https://roseville-california.geotechnicalengineering.sbs/seismic-microzonation/)
+- [Seismic Refraction](https://roseville-california.geotechnicalengineering.sbs/seismic-refraction/)
+- [Slope Stability](https://roseville-california.geotechnicalengineering.sbs/slope-stability/)
+- [Slopes](https://roseville-california.geotechnicalengineering.sbs/slopes/)
+- [Soft Ground Tunnels](https://roseville-california.geotechnicalengineering.sbs/soft-ground-tunnels/)
+- [Spt Drilling](https://roseville-california.geotechnicalengineering.sbs/spt-drilling/)
+- [Stone Columns](https://roseville-california.geotechnicalengineering.sbs/stone-columns/)
+- [Test Pits](https://roseville-california.geotechnicalengineering.sbs/test-pits/)
+- [Triaxial](https://roseville-california.geotechnicalengineering.sbs/triaxial/)
+- [Vibrocompaction](https://roseville-california.geotechnicalengineering.sbs/vibrocompaction/)
+
+## Contact
+- Website: https://roseville-california.geotechnicalengineering.sbs/
+
+## About
+This site provides geotechnical engineering services in Roseville California, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
